@@ -526,7 +526,7 @@
 	display: none;
 }
 /*for larger screens*/
-@media (min-width: 1200px){
+@media (min-width: 1000px){
 	#light_box .images_part img:nth-child(2){
 		margin-left: 15rem;
 		
